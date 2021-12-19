@@ -4,7 +4,7 @@ public class TrainStudentTester
         System.out.println("********** Test Train - Started **********");
         System.out.println("\n1. Testing Constructors and toString:");               
         // test concstructor with 7 parameters and toString
-        Train tr1=new Train(new String("Paris"), 12, 30, 90, 70, 100, 10); 
+        Train tr1 = new Train(new String("Paris"), 12, 30, 90, 70, 100, 10); 
         System.out.println("\tTrain 1: " + tr1);
         // test copy concstructor
         Train tr2 = new Train(tr1);
