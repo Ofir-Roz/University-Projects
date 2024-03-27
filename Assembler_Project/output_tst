@@ -1,0 +1,22 @@
+
+   ********************************************
+	Welcome to the Assembler program
+	Made by Ofir Rozanes
+   ********************************************
+------> Working on the next file:
+------> test3.as
+
+[31m
+Error in line 2: Illegal entry args [0m[31m
+Error in line 3: The extern args are illegal. [0m[31m
+Error in line 6: 'prn' command arguments are illegal [0m[31m
+Error in line 10: 'inc' command arguments are illegal [0m[31m
+Error in line 14: The string is invalid (more then one parameter, etc...) [0m
+____FINISH____
+
+------> Working on the next file:
+------> test4.as
+
+[31m
+Error in line 12: Label not fount in the symbol-table. [0m
+____FINISH____
